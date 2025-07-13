@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "js-beautify": "^1.15.4"
+  },
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "format-holyc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
