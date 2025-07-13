@@ -1,6 +1,5 @@
 # Node.js dependencies for formatter script
 /scripts/node_modules/
-/scripts/package-lock.json
 
 # vim swap files, backup files, etc.
 *.swp
