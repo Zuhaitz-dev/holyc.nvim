@@ -1,0 +1,15 @@
+# Node.js dependencies for formatter script
+/scripts/node_modules/
+/scripts/package-lock.json
+
+# vim swap files, backup files, etc.
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.undo
+
+# local Neovim cache files
+.DS_Store
+.gitkeep
